@@ -1,0 +1,2 @@
+# Cubic-Spline-Generator
+Visual Basic for Applications programming language that generates a cubic spline given a 2D set of values. The function is built into excel and is a user-defined function that will use the Thomas Algorithm to solve for a cubic spline. Once generated, the function can then output any dependent variable given an independent variable. If enough points are generated, a graph can be made in excel to show the relationship between the variables.
